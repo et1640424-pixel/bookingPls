@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0af2a076-f279-47c3-ace1-94bf78b5207d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Docker Compose" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000953245258" />
+      <entry key="MS500" value="1.071192748832735" />
+      <entry key="S2" value="2.2639418197104817" />
+      <entry key="S5" value="3.482497214038347" />
+      <entry key="S10" value="4.142438141405676" />
+      <entry key="S30" value="4.688625999878601" />
+      <entry key="S60" value="4.878370486855941" />
+      <entry key="M2" value="6.616520971679448" />
+      <entry key="M5" value="30.127311939105383" />
+      <entry key="M10" value="82.49194564149543" />
+      <entry key="M15" value="127.36743369549833" />
+      <entry key="M30" value="226.33910154375891" />
+      <entry key="H1" value="352.76141173178013" />
+      <entry key="H2" value="484.292160164197" />
+      <entry key="H4" value="588.4001394135284" />
+      <entry key="D1" value="707.5253852241763" />
+      <entry key="W1" value="731.8234636153956" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.9155853811305767E-287" />
+      <entry key="S2" value="2.6478526350522165E-72" />
+      <entry key="S5" value="2.339685719967109E-29" />
+      <entry key="S10" value="4.837029791067149E-15" />
+      <entry key="S30" value="1.6911920200453116E-5" />
+      <entry key="S60" value="0.004112414496446442" />
+      <entry key="M2" value="0.06425361849114983" />
+      <entry key="M5" value="0.4015725811412841" />
+      <entry key="M10" value="1.2457197008533325" />
+      <entry key="M15" value="2.252592057249931" />
+      <entry key="M30" value="5.1556215339046805" />
+      <entry key="H1" value="9.96663310861941" />
+      <entry key="H2" value="15.793965755737776" />
+      <entry key="H4" value="20.728391219980985" />
+      <entry key="D1" value="26.57863560780237" />
+      <entry key="W1" value="27.79105679653492" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7513366602863007E-4" />
+      <entry key="MS500" value="0.24756172487412173" />
+      <entry key="S2" value="1.9076531137578054" />
+      <entry key="S5" value="3.319228673145248" />
+      <entry key="S10" value="4.056707840675871" />
+      <entry key="S30" value="4.6590787265256175" />
+      <entry key="S60" value="4.867457793968409" />
+      <entry key="M2" value="6.672127162444018" />
+      <entry key="M5" value="30.520880697379095" />
+      <entry key="M10" value="83.72574753126133" />
+      <entry key="M15" value="129.60510623347466" />
+      <entry key="M30" value="231.47380347003366" />
+      <entry key="H1" value="362.7029277184285" />
+      <entry key="H2" value="500.06387505928785" />
+      <entry key="H4" value="609.1132121758882" />
+      <entry key="D1" value="734.100633990201" />
+      <entry key="W1" value="759.6140118543168" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KRrYFsf1VYpY58frZo1nWSCH9T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Tomstore/Desktop/PythonProjectBooking",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af2a076-f279-47c3-ace1-94bf78b5207d" name="Changes" comment="" />
+      <created>1791531267162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791531267162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+</project>
